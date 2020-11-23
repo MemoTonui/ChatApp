@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "621986667958",
+    "firebase_url": "https://chatapp-5265c.firebaseio.com",
+    "project_id": "chatapp-5265c",
+    "storage_bucket": "chatapp-5265c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621986667958:android:3cc59234e83e42f71ff517",
+        "android_client_info": {
+          "package_name": "com.linda.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621986667958-sork6f6k8l29qh9qrgdc52hpf51vsugq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.linda.chatapp",
+            "certificate_hash": "9bea74ce159bed0ab4d1a01fdfe68f4f447562d1"
+          }
+        },
+        {
+          "client_id": "621986667958-o9cua5c8vclmmmqb2jrl9m7mqdbg0172.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3lXOc6Qc4YC8z4-xQypJaSez9LyWO9y0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621986667958-o9cua5c8vclmmmqb2jrl9m7mqdbg0172.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
